@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pic3.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "colorful desk";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "E-commerce Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Get fresh Groceries at your doorstep.",
+    url: "https://github.com/CoderPoorva/Grocery",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Cyber Crime-Data Visualization",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Data Visualization of Cyber Crime in India.",
+    url: "https://github.com/CoderPoorva/Data-Visualisation",
   },
   {
-    title: "My Resume Site",
+    title: "TIC TAC TOE",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "let's play TIC TAC TOE.",
+    url: "https://github.com/CoderPoorva/Tic-Tac-Toe",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Patterns in Java",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Patterns in Java",
+    url: "https://github.com/CoderPoorva/Patterns-in-Java",
   },
 ];
 
